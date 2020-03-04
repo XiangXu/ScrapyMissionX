@@ -1,0 +1,10 @@
+class="main-title"><span _ngcontent-sc1271="">Abracadabra! Here are the results for “herbag”</span><span _ngcontent-sc1271="" aria-hidden="true"> (1) </span><span _ngcontent-sc1271="" class="sr-only"><span _ngcontent-sc1271="">, 1 </span><!----><span _ngcontent-sc1271="" class="ng-star-inserted">items</span><!----></span></div>
+
+class="main-title"><span _ngcontent-sc1271="">Abracadabra! Here are the results for “aloha”</span><span _ngcontent-sc1271="" aria-hidden="true"> (3) </span><span _ngcontent-sc1271="" class="sr-only"><span _ngcontent-sc1271="">, 3 </span><!----><span _ngcontent-sc1271="" class="ng-star-inserted"><span _ngcontent-sc1271="">items</span></span><!----></span></div><!-
+
+class="main-title">Oops!</div>
+
+
+'https://www.hermes.com/ie/en/search/?s=aloha#||Category',
+'https://www.hermes.com/ie/en/search/?s=vvadfa1231#||Category',
+
